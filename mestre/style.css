@@ -1,0 +1,105 @@
+/* I put this style sheet together following the techniques outlined in 
+   http://www.alistapart.com/articles/fauxabsolutepositioning 
+   basically there is a main container setting the stage for the content structure,
+   within this container there are two lines that allow for positioning of the items
+   the first line is the header containing one item with the muw logo and link
+   and another with the title
+   the second line is contains items for the sidebar and main content page 
+   put together by florian klinglmueller <float_at_lefant.net>
+   Use as you like, credit where due*/
+
+body {
+    font-family: Helvetica,sans-serif;
+    background: #FFCD97;
+}
+
+#main {
+    width: 80%;
+    margin: 25px auto;
+    padding: 0px;
+    border: 2px solid #FFCD97;
+    overflow: hidden;
+}
+
+a {
+	color: #97A219;
+}
+
+a.visited {
+	color: #68b5ce;
+}
+
+.line {
+  float: left;
+  width: 100%;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  background: white;
+}
+
+.item {
+    float: left;
+    position: relative;
+    left: 100%;
+    overflow: hidden;
+}
+
+.column { /* all columns have continous background color */
+    margin-bottom: -5000px;
+    padding-bottom: 5000px;
+}
+
+.bioinf-content {
+    padding: 5px;
+}
+
+#muw-ref {
+    margin-left: -100%;
+    width: 100%;
+    overflow: hidden;
+    background: white;
+}
+
+
+#muw-ref .bioinf-content a{
+    text-indent: -20000px;
+    height: 142px;
+    display: block;
+    background: white url(images/panorama.jpg) top left no-repeat;
+    font-size: small;
+    z-index: 100;
+}
+
+#title {
+    margin-left: -100%;
+    width: 100%;
+
+}
+
+#header #title .bioinf-content {
+    padding: 5px 5px 5px 205px; 
+}
+
+
+#content #sidebar {
+    margin-left: -100%;
+    width: 200px;
+    background-color: white;
+    z-index: 100;
+}
+
+#content #main-content {
+    margin-left: -100%;
+    width: 100%;
+}
+
+#content #main-content .bioinf-content {
+    text-align: justify;
+    padding: 5px 15px 5px 205px;
+    font-size: small;
+}
+
+.important {
+    font-style: italic;
+}
