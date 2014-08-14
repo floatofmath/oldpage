@@ -15,6 +15,7 @@ body {
 
 #main {
     width: 80%;
+    max-width: 900px;
     margin: 25px auto;
     padding: 0px;
     border: 2px solid #FFCD97;
@@ -96,7 +97,7 @@ a.visited {
 
 #content #main-content .bioinf-content {
     text-align: justify;
-    padding: 5px 15px 5px 205px;
+    padding: 5px 50px 5px 205px;
     font-size: medium;
 }
 
