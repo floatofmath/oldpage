@@ -1,0 +1,5 @@
+# filname sans .html, Link Text,      Link Title          (please note that empty lines result in errors and comments are only allowed in this line, first entry has to start in the second line, the script simply discards the first line)
+index, 	       	      Allgemein,       Allgemeine Informationen
+bilder,               Photos,          Photos
+hinweis,              Wichtige Hinweise,        Wichtige Hinweise
+trouble,              Troubleshooting,          Troubleshooting

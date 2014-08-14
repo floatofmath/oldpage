@@ -67,7 +67,7 @@ a.visited {
     height: 142px;
     display: block;
     background: white url(images/panorama.jpg) top left no-repeat;
-    font-size: small;
+    font-size: medium;
     z-index: 100;
 }
 
@@ -97,7 +97,7 @@ a.visited {
 #content #main-content .bioinf-content {
     text-align: justify;
     padding: 5px 15px 5px 205px;
-    font-size: small;
+    font-size: medium;
 }
 
 .important {

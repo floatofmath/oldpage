@@ -1,0 +1,84 @@
+* HERZLICH WILLKOMMEN IN MESTRE!
+
+Herzlich Willkommen in Mestre, einer fröhlichen Stadt gleich neben Venedig. Hier ein paar Hinweise um euren Aufenthalt angenehmer zu machen:
+
+
+** Wo ist die Wohnung? 
+
+Die Wohunung liegt in Mestre in:
+<p class="important">
+Viale San Marco 48 Tuer 8 <br />
+30173 Venezia Mestre,
+
+<p/>
+im Dritten Stock.
+
+<form method="get" target="_blank" action="http://maps.google.com/maps">
+
+** Weg zur Wohnung mittels Google Maps Berechnen
+
+Geben Sie Ihre Start-Adresse ein: <br/>
+<input type="text" name="saddr" />
+<input type="hidden" name="daddr" value="Viale San Marco
+					 48/8
+					 30173 Venezia Mestre" />
+<input type="submit" value="get directions" />
+</form> 
+
+** Darf mann in der Wohnung rauchen?
+
+Prinzipiell wird nur am Balkon des Schlafzimmers geraucht. 
+
+
+** Wo kann ich mein Auto parken?
+
+Die ganzen Querstrassen der V.le S. Marco bieten euch viele Parkplätze (blaue Streifen) an, da die Wohnung im Zentrum der Stadt liegt, braucht man Parkscheine! Es gibt verteilt graue Automaten, der näheste in der Viale S. Marco liegt gegenüber der Trafik. ACHTUNG: der Automat nimmt keine Banknoten, achtet also darauf immer genuegend Münzen dabei zu haben!
+
+
+** Wie erreiche ich Venedig von der Wohnung?
+   Zum Glück hat Mestre ein sehr gutes (für italienische Verhältnisse)
+   Busnetz, die Busstation für Venedig ist ca. 30 meter von der Haustür
+   entfernt. Daneben gibt es ein Zeitungsgeschäft wo mann die Fahrkarten
+   für den Bus kaufen kann. ACHTUNG: es werden keine Fahrkarten direkt im
+   Bus verkauft, also empfehle ich euch einen kleine Vorrat an Fahrkarten
+   zu haben, bitte beachtet die Oeffnungszeiten des Zeitungsgeschäft, der
+   macht nämlich eine Mittagspause von ca. 12:30 bis 15:30.  Die
+   Buslinien die nach Venedig (bis zu Piazzale Roma) fahren sind:
+     + 12  
+     + 12/
+
+   Der Bus kommt ungefähr alle 10 Minuten und die Fahrt dauert eine
+   viertel Stunde. 
+
+
+** Wo kann ich in Mestre essen gehen?
+   Mestre bietet eine sehr gute Küche an und ist viel billiger als
+   Venedig. Es kann nichts besseres geben, als sich nach einem
+   intensiven Tag in Venedig eine gute Pizza oder Pasta zu gönnen! 
+
+   *Hier ein paar wichtige Addressen:*
+   
+   - Pizza:   
+     Piazzetta Cesare Battisti, 13
+     Mestre, 30174 Venezia, Italia
+     +39 041 972127
+     Montags Ruhetag
+
+
+<h4> Typische Venediger Küche findet ihr hier:</h4>
+
+<a href="http://www.allombradelgabbiano.it/index.html" title="Ombra del Gabbiano">Ristorante All´Ombra del Gabbiano</a>:<br/>
+
+<p class="important">
+via Caneve, 2<br/>
+Mestre<br/>
+Jeden Tag geöffnet<br/>
+</p>
+
+<p>
+Die Italiener sind auch berühmt für die Gewohnheit, am Abend Aperitiv trinken zu gehen. Das ist eine Tradition, die immer zwischen 18:00 Uhr und 20:00 angeboten wird. Jede Region Italiens hat einen bestimmte Aperitiv, der Venediger Aperitiv heisst Spriz und besteht aus 1/3 Mineralwasser, 1/3 Prosecco und 1/3 Aperol. Normalerweise wird der Spriz immer von Chips oder Nüssen begleitet, die allerdings nicht verrechnet werden. Wer Lust auf einen Spriz hat, kann in den vielen Bars in der Piazza Ferretto einen trinken (die haben in der schönen Saison Tische am Platz).
+
+</p>
+
+
+
